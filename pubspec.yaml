@@ -15,6 +15,7 @@ dependencies:
   riverpod_annotation: ^2.6.1
   freezed_annotation: ^3.0.0
   json_annotation: ^4.9.0
+  riverpod_lint: ^2.6.5
 
 dev_dependencies:
   flutter_test:
@@ -23,7 +24,6 @@ dev_dependencies:
   riverpod_generator: ^2.6.5
   build_runner: ^2.4.15
   custom_lint: ^0.7.5
-  riverpod_lint: ^2.6.5
   freezed: ^3.0.6
   json_serializable: ^6.9.5
 
