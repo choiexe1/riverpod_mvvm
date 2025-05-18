@@ -26,6 +26,7 @@ dev_dependencies:
   custom_lint: ^0.7.5
   freezed: ^3.0.6
   json_serializable: ^6.9.5
+  melos: ^6.3.2
 
 flutter:
   uses-material-design: true
