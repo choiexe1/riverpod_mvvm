@@ -1,0 +1,9 @@
+name: riverpod_mvvm
+packages:
+  - .
+
+scripts:
+  watch: dart run build_runner watch -d
+  run:dev: flutter run
+  test:
+    run: flutter test -r github
