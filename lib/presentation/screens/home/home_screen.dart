@@ -1,9 +1,10 @@
+import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_mvvm/data/models/activity.dart';
 import 'package:riverpod_mvvm/presentation/providers/activity_provider.dart';
 
-/// The homepage of our application
+@RoutePage()
 class HomeScreen extends ConsumerWidget {
   const HomeScreen({super.key});
 
